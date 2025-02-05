@@ -14,8 +14,6 @@ description = "What we're working on lately"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-embed_url = "https://www.youtube.com/embed/x0gUY9ddjQY"
-[[sections.items]]
 title = "The Unsaved Changes Arcade"
 description = "Free to play games in-browser"
 url = "https://arcade.unsavedchanges.com"
